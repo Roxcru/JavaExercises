@@ -19,6 +19,7 @@ public class ConversorMonedas {
         };
 
         System.out.println("Ingresar el tipo de moneda");
+
         for (int i = 0; i < array.length; i++) {
             System.out.println(array[i][0] + " - " + array[i][1]);
         }
