@@ -43,6 +43,24 @@ public class CollectionGuide {
         clase.forEach((clave,valor) -> System.out.println(clave + " tiene " + valor));
 
 
-        Queue<Integer> q1 = new ArrayDeque<>();
+//        Queue<Integer> cola = new PriorityQueue<>(Comparator.comparing(Persona.getNombre));
+//        cola.add(new Persona("Luis", 29));
+//        cola.add(new Persona("Andre", 14));
+//        System.out.println("Return");
     }
+
+//    public static class Persona implements Comparable<Persona> {
+//        private  String nombre;
+//        private int edad;
+//
+//        public String getNombre() {
+//            return nombre;
+//        }
+//
+//        public void setNombre(String nombre) {
+//            this.nombre = nombre;
+//        }
+//
+//
+//    }
 }
