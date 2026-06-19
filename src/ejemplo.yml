@@ -1,0 +1,11 @@
+# Este es un comentario
+usuario:
+  nombre: Cesar Flores
+  ciudad: Lima
+  edad: 41
+  hobbies: 
+    - futbol
+    - juegos
+    - manejar 
+  casado: false
+# finalizacion
