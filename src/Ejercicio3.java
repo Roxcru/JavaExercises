@@ -1,5 +1,5 @@
 import java.util.Scanner;
-//Se ejecuto un cambio 
+
 public class Ejercicio3 {
     public static void main(String[] args) {
         System.out.println("Ejemplos");
